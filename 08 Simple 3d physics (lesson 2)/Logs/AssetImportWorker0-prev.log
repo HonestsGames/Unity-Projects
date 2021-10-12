@@ -1,0 +1,301 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'ru' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\edit\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Program Files/Unity Hub/edit/Superman
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57919
+Successfully changed project path to: D:/Program Files/Unity Hub/edit/Superman
+D:/Program Files/Unity Hub/edit/Superman
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/Superman/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001180 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.982 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 2.268600 ms (FindLiveObjects: 0.149000 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.960800 ms  DeleteObjects: 0.120700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/SuperCubeStriker.cs
+  artifactKey: Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SuperCubeStriker.cs using Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49f505fe62f12cf5bf8f8eff570dc87') in 0.135416 seconds
+  Import took 0.137204 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.854900 ms (FindLiveObjects: 0.129700 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.625100 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 570.010359 seconds.
+  path: Assets/Scripts/SuperCubeStriker.cs
+  artifactKey: Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SuperCubeStriker.cs using Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca65dd0d36af63630bb5dcf228049539') in 0.009957 seconds
+  Import took 0.011827 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000537 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.920800 ms (FindLiveObjects: 0.115300 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.693800 ms  DeleteObjects: 0.077800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.937305 seconds.
+  path: Assets/Scripts/SuperCubeStriker.cs
+  artifactKey: Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SuperCubeStriker.cs using Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb51280bfca8274428b7adfedf8f610') in 0.004190 seconds
+  Import took 0.005967 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000560 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.820200 ms (FindLiveObjects: 0.135900 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.568000 ms  DeleteObjects: 0.084400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1571.564908 seconds.
+  path: Assets/Scripts/SuperCubeStriker.cs
+  artifactKey: Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SuperCubeStriker.cs using Guid(bbe6582c5559fd7408d29f2f9780fcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c43da9cb2432fbe59762454a9e02502') in 0.004525 seconds
+  Import took 0.006796 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000638 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.819900 ms (FindLiveObjects: 0.111200 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.583300 ms  DeleteObjects: 0.093400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.838500 ms (FindLiveObjects: 0.135200 ms CreateObjectMapping: 0.051100 ms MarkObjects: 1.565900 ms  DeleteObjects: 0.085200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000631 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 2.111000 ms (FindLiveObjects: 0.138200 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.833100 ms  DeleteObjects: 0.105400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 504.120289 seconds.
+  path: Assets/Materials/Materials/5bfe48791d0dd.mat
+  artifactKey: Guid(40a974341c62cd047996af91a599a418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/5bfe48791d0dd.mat using Guid(40a974341c62cd047996af91a599a418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc2d4b8ba354a3f651adecaccc58fb4') in 0.153256 seconds
+  Import took 0.155632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069858 seconds.
+  path: Assets/Materials/Materials/golovorez-mishen-rezon-by.mat
+  artifactKey: Guid(1370e5480c52136448ec8b2a56ffc54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/golovorez-mishen-rezon-by.mat using Guid(1370e5480c52136448ec8b2a56ffc54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3abc3ff5ba2df515098461b8083014b') in 0.038617 seconds
+  Import took 0.041875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016753 seconds.
+  path: Assets/Materials/Materials/artworks-bwtR8YeMFXY9tKVA-R8Auog-t500x500.mat
+  artifactKey: Guid(755f450f462510a4d84ea1f41f59fb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/artworks-bwtR8YeMFXY9tKVA-R8Auog-t500x500.mat using Guid(755f450f462510a4d84ea1f41f59fb3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80199e93da7cf6bb5bdc95fca66aef37') in 0.036950 seconds
+  Import took 0.042116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018190 seconds.
+  path: Assets/Materials/Materials/грунт_41.mat
+  artifactKey: Guid(badb8e10898c3d945a213267c7bbf4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/грунт_41.mat using Guid(badb8e10898c3d945a213267c7bbf4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46823544848cd728514651e0afe41c3a') in 0.038718 seconds
+  Import took 0.041868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026678 seconds.
+  path: Assets/Materials/Materials/5bfe48791d0dd 1.mat
+  artifactKey: Guid(2a831871795ee724a8d4b68f4b82ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/5bfe48791d0dd 1.mat using Guid(2a831871795ee724a8d4b68f4b82ec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c41f6264a2babec130cd842fda00c4b') in 0.016159 seconds
+  Import took 0.018822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011978 seconds.
+  path: Assets/Materials/Materials/startled-worried-guy-raise-hands-up-surrender-gasping-shocked_176420-21185.mat
+  artifactKey: Guid(df9ea0b301a6eb4488592f912da227a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/startled-worried-guy-raise-hands-up-surrender-gasping-shocked_176420-21185.mat using Guid(df9ea0b301a6eb4488592f912da227a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809d930aa76af65525d538f745ff571a') in 0.015801 seconds
+  Import took 0.018977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106252 seconds.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(eb953048db3374244b81bf8e6700acaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(eb953048db3374244b81bf8e6700acaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a7ff94c8a2c2dc718c015931769bdd') in 0.007118 seconds
+  Import took 0.009684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050943 seconds.
+  path: Assets/Materials/Materials/startled-worried-guy-raise-hands-up-surrender-gasping-shocked_176420-21185 1.mat
+  artifactKey: Guid(f298300ffe315004e9b585a7a885593c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/startled-worried-guy-raise-hands-up-surrender-gasping-shocked_176420-21185 1.mat using Guid(f298300ffe315004e9b585a7a885593c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ad9db1d90f4253384e1dc5b501b2a3') in 0.029740 seconds
+  Import took 0.032923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008717 seconds.
+  path: Assets/Materials/Materials/confused-startled-woman-raising-hands-up-surrender-unwilling-be-involved_176420-26554.mat
+  artifactKey: Guid(3e29a18cb14a29942be9579ab7cb98c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/confused-startled-woman-raising-hands-up-surrender-unwilling-be-involved_176420-26554.mat using Guid(3e29a18cb14a29942be9579ab7cb98c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984792498e5aeeb1eaea6bc855eacf29') in 0.013598 seconds
+  Import took 0.015689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038425 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c5033e43409b53aaa9276dec867c1e') in 0.010044 seconds
+  Import took 0.012552 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
