@@ -1,0 +1,1656 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'ru' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\edit\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Program Files/Unity Hub/edit/Second exercise
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51370
+Successfully changed project path to: D:/Program Files/Unity Hub/edit/Second exercise
+D:/Program Files/Unity Hub/edit/Second exercise
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/Second exercise/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001806 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.113 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.0 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 4.302900 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.110400 ms MarkObjects: 3.743700 ms  DeleteObjects: 0.241100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_canopy_hanging.prefab
+  artifactKey: Guid(e11c2430b30054406b7006f0679e2111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_canopy_hanging.prefab using Guid(e11c2430b30054406b7006f0679e2111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa658bff3d1e23921aab82f94a02912') in 0.147589 seconds
+  Import took 0.151287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_column_short.prefab
+  artifactKey: Guid(c8a3ce87580174f67a7bc5247513c6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_column_short.prefab using Guid(c8a3ce87580174f67a7bc5247513c6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98cf4d67fd3b76736f56bd40d26c30a3') in 0.031438 seconds
+  Import took 0.035518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_3.prefab
+  artifactKey: Guid(aa6a619d27cf848ac8e30fc02e7c4251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_3.prefab using Guid(aa6a619d27cf848ac8e30fc02e7c4251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081f93c7493705f23e33f733adb3ba03') in 0.036442 seconds
+  Import took 0.039792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_square.prefab
+  artifactKey: Guid(01d39d768686345878847aeeced0774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_square.prefab using Guid(01d39d768686345878847aeeced0774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22e3adec49176b4029121841bc1757d') in 0.036249 seconds
+  Import took 0.041755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_fence_wood_2.prefab
+  artifactKey: Guid(5b88b0a9e6bde4198b925d46b451415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_fence_wood_2.prefab using Guid(5b88b0a9e6bde4198b925d46b451415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ae95d5f8abe99780970cfc6b5eda46') in 0.033577 seconds
+  Import took 0.036770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1.prefab
+  artifactKey: Guid(b21c71e17d3bf499886071f98fa8cdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1.prefab using Guid(b21c71e17d3bf499886071f98fa8cdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5566294dbc03ac2fd5c18370467fb82') in 0.033704 seconds
+  Import took 0.048046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_2.prefab
+  artifactKey: Guid(d1c164fd13ef64492819d4a5863da470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_2.prefab using Guid(d1c164fd13ef64492819d4a5863da470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6d47b07211b525e725e4ca248ba09e') in 0.032193 seconds
+  Import took 0.034787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_med.prefab
+  artifactKey: Guid(b10f92723ce1a4235a0fbf75bd9becde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_med.prefab using Guid(b10f92723ce1a4235a0fbf75bd9becde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fa4aebe5150c552a3440a0191aed9c') in 0.030196 seconds
+  Import took 0.033241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_column_3.prefab
+  artifactKey: Guid(6af80645ec08e4f57a4846d75f5c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_column_3.prefab using Guid(6af80645ec08e4f57a4846d75f5c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae3fba77fa318839db56e5b6d5322df') in 0.030202 seconds
+  Import took 0.032483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_slanted.prefab
+  artifactKey: Guid(03c9713f8e0d1446dacfb9fb49bb35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_slanted.prefab using Guid(03c9713f8e0d1446dacfb9fb49bb35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767e6ca9cc805d617042a17a581c8e97') in 0.030451 seconds
+  Import took 0.032916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_crate_closed.prefab
+  artifactKey: Guid(e55e6ebd16b4744258afdde51a1ec75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_crate_closed.prefab using Guid(e55e6ebd16b4744258afdde51a1ec75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1303d7d44ee7c9232d45908836e3b70') in 0.034348 seconds
+  Import took 0.036876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_door_4.prefab
+  artifactKey: Guid(cbd58ef2e18564d4fa450f0a1501d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_door_4.prefab using Guid(cbd58ef2e18564d4fa450f0a1501d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2320f84386d6976db0c471096487ac69') in 0.026994 seconds
+  Import took 0.031445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_door_2.prefab
+  artifactKey: Guid(0f9e068e8adba47849b5ce91feffd809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_door_2.prefab using Guid(0f9e068e8adba47849b5ce91feffd809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe0ea497d1aea4f8f974095c3705ca3') in 0.041444 seconds
+  Import took 0.043458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_1.prefab
+  artifactKey: Guid(2fc015c50966f481699a0e9299eaa6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_1.prefab using Guid(2fc015c50966f481699a0e9299eaa6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61398d14234a2b81c3ab2eccda6600aa') in 0.030009 seconds
+  Import took 0.032395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1_offset.prefab
+  artifactKey: Guid(e4d13985206974ef19b4c967ea92733e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1_offset.prefab using Guid(e4d13985206974ef19b4c967ea92733e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf2345ba04f352ef14a49a54be7244a') in 0.035247 seconds
+  Import took 0.037629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_corner.prefab
+  artifactKey: Guid(62c0de286656140a7a3a5eeb4d713c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_corner.prefab using Guid(62c0de286656140a7a3a5eeb4d713c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140c394f2be279bddb1f56e17e79f35d') in 0.034053 seconds
+  Import took 0.039206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_barrel.prefab
+  artifactKey: Guid(62bf106055dc84816a25edbee246a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_barrel.prefab using Guid(62bf106055dc84816a25edbee246a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58648f29053c5756790690294e19f5da') in 0.030429 seconds
+  Import took 0.034605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_window_4.prefab
+  artifactKey: Guid(faaa2fb407dfa4d6f8d24f6663f4b1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_window_4.prefab using Guid(faaa2fb407dfa4d6f8d24f6663f4b1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcca72f882b6430e3c7ff1f5de020eab') in 0.026060 seconds
+  Import took 0.031709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_1.prefab
+  artifactKey: Guid(b7b94536b73c84616bb2b03b5b1b9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_1.prefab using Guid(b7b94536b73c84616bb2b03b5b1b9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7742c4db1a39473d633d1714d4f131') in 0.025729 seconds
+  Import took 0.029032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_short.prefab
+  artifactKey: Guid(02258bcb813d74c56a1c1f0e7bec1f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_short.prefab using Guid(02258bcb813d74c56a1c1f0e7bec1f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0293599eefc99e4f21c04dce6dbfa8af') in 0.027231 seconds
+  Import took 0.031114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models
+  artifactKey: Guid(141777d25b211494c8e804a0324b22e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models using Guid(141777d25b211494c8e804a0324b22e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8c3d7f234327835336769d9796420f') in 0.012221 seconds
+  Import took 0.014156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_4.prefab
+  artifactKey: Guid(b9994732149834c74a40636207d2457e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_4.prefab using Guid(b9994732149834c74a40636207d2457e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517a582c8927ceea62c9d2860ce7890b') in 0.030876 seconds
+  Import took 0.033017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard
+  artifactKey: Guid(33fba0a11644e499fbc79ffff6891991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard using Guid(33fba0a11644e499fbc79ffff6891991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f70ec49b9c5fee0381786d4dde9fa4') in 0.012277 seconds
+  Import took 0.014260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.663838 seconds.
+  path: Assets/RomanCityPack1Lite/Materials
+  artifactKey: Guid(adb3a6c962ff44021b43dcee6f7fbd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Materials using Guid(adb3a6c962ff44021b43dcee6f7fbd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c89e812c016e992f2e39fd5d8b3accc') in 0.011812 seconds
+  Import took 0.015348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072981 seconds.
+  path: Assets/RomanCityPack1Lite/Materials/Terrain.mat
+  artifactKey: Guid(38418e69fbd3846889de928271a57360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Materials/Terrain.mat using Guid(38418e69fbd3846889de928271a57360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6216a1ee1008b605bcb7bb29e0972095') in 0.043247 seconds
+  Import took 0.045562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.250246 seconds.
+  path: Assets/RomanCityPack1Lite/Models
+  artifactKey: Guid(e9f367c5627fe4d2ebce4201f299ea8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models using Guid(e9f367c5627fe4d2ebce4201f299ea8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf96f4184beead6c7854847d8f81fe4a') in 0.003117 seconds
+  Import took 0.005668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.908523 seconds.
+  path: Assets/Materials/White Marble.mat
+  artifactKey: Guid(6c539fc415d794f4a870298632453bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/White Marble.mat using Guid(6c539fc415d794f4a870298632453bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c907d702be40e54c7c4a0d16d4d18c') in 0.046010 seconds
+  Import took 0.050548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.482457 seconds.
+  path: Assets/GreekPack1Lite/Textures
+  artifactKey: Guid(bf041373bd4f74675a0b194c1ba906bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Textures using Guid(bf041373bd4f74675a0b194c1ba906bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc80ea5449b5856cd38d90a66339ef8') in 0.010466 seconds
+  Import took 0.013737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066944 seconds.
+  path: Assets/GreekPack1Lite/Textures/Greek_Combined.png
+  artifactKey: Guid(57d42fa8249a84e628d946ee3d5efd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Textures/Greek_Combined.png using Guid(57d42fa8249a84e628d946ee3d5efd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28449c3e84920755413eab68036f1f27') in 0.023962 seconds
+  Import took 0.026131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.058080 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman
+  artifactKey: Guid(d1536df5b712b40309e41203f4cea402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman using Guid(d1536df5b712b40309e41203f4cea402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23db0417287e5b7d96d27da67bd41ba4') in 0.008926 seconds
+  Import took 0.011043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069574 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_barrel.fbx
+  artifactKey: Guid(f8db3b2832e06422e9a28014b01183b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_barrel.fbx using Guid(f8db3b2832e06422e9a28014b01183b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0090638e706f13308f2d3b6bbe618f32') in 0.050510 seconds
+  Import took 0.052799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_4.fbx
+  artifactKey: Guid(dddcce01598a643e9a2460ef2988ed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_4.fbx using Guid(dddcce01598a643e9a2460ef2988ed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba82f5a9d4cc9090254def91531a0329') in 0.023799 seconds
+  Import took 0.025995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_med.fbx
+  artifactKey: Guid(f642cca86002942e88f866611a97b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_med.fbx using Guid(f642cca86002942e88f866611a97b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a96b0a328d313274eb73616e200556') in 0.024854 seconds
+  Import took 0.027001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_square.fbx
+  artifactKey: Guid(8dd85d51a24524301a6d16064da432b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_square.fbx using Guid(8dd85d51a24524301a6d16064da432b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974da26a5fa8d35ebcd7a65a70eeaf24') in 0.026504 seconds
+  Import took 0.029740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_canopy_hanging.fbx
+  artifactKey: Guid(79bb5397c261e405ea5f400bd610413d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_canopy_hanging.fbx using Guid(79bb5397c261e405ea5f400bd610413d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e62d9bcc0c18f4548b0789eb580059e') in 0.038003 seconds
+  Import took 0.041175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_pot_1.fbx
+  artifactKey: Guid(cf7cab27be8414bb9991cbf39d70010d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_pot_1.fbx using Guid(cf7cab27be8414bb9991cbf39d70010d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d44e0e164d5be7a6fcaeb97f797ea4') in 0.026578 seconds
+  Import took 0.029381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_crate_closed.fbx
+  artifactKey: Guid(9b96afa254f2348d295bad12b30354fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_crate_closed.fbx using Guid(9b96afa254f2348d295bad12b30354fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664da828b3a812cc0e1e0d80f5a78069') in 0.026315 seconds
+  Import took 0.028818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1_offset.fbx
+  artifactKey: Guid(67b2544fdb20c4a42966c07ab23ecdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1_offset.fbx using Guid(67b2544fdb20c4a42966c07ab23ecdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9934c593fc3a53c0836d4680a8efdea7') in 0.037004 seconds
+  Import took 0.039912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_door_4.fbx
+  artifactKey: Guid(d13f1242581a34a9291736512b799c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_door_4.fbx using Guid(d13f1242581a34a9291736512b799c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816331231ce9fa0a4f3ca45a6702f5d6') in 0.023891 seconds
+  Import took 0.026357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_pot_2.fbx
+  artifactKey: Guid(e28a8cc2a48c140619d81360c6538b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_pot_2.fbx using Guid(e28a8cc2a48c140619d81360c6538b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26548eafa206db5405c7a7bf5f1f0de') in 0.023713 seconds
+  Import took 0.026812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_slanted.fbx
+  artifactKey: Guid(0a35492648dd748e9a866f193ee5757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_slanted.fbx using Guid(0a35492648dd748e9a866f193ee5757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e7f667a13d1bb0ca77b1d92ce7d3c6') in 0.022440 seconds
+  Import took 0.026377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_column_3.fbx
+  artifactKey: Guid(999c10c074d0c4f2bbe39c220fec15b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_column_3.fbx using Guid(999c10c074d0c4f2bbe39c220fec15b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721ca6c9ea7be15690a0d9a3ca52cc87') in 0.029437 seconds
+  Import took 0.031939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_fence_wood_2.fbx
+  artifactKey: Guid(346b983670773419eab7bbc00eaa94da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_fence_wood_2.fbx using Guid(346b983670773419eab7bbc00eaa94da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffea6a764957fde63b7956a28f990fe') in 0.021737 seconds
+  Import took 0.024941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx
+  artifactKey: Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx using Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4c3d47691281735e637505340737ec') in 0.021447 seconds
+  Import took 0.024482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_column_short.fbx
+  artifactKey: Guid(d32078c4f23434270b4ce778bb886ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_column_short.fbx using Guid(d32078c4f23434270b4ce778bb886ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad0a09865fdbe9497269ee1e8c52efc') in 0.021723 seconds
+  Import took 0.025310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_short.fbx
+  artifactKey: Guid(7fa7f3ae87c3347ed913e1efe0469d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_short.fbx using Guid(7fa7f3ae87c3347ed913e1efe0469d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d102d1b335909146b2499f4d75fcfa1') in 0.020333 seconds
+  Import took 0.023426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx
+  artifactKey: Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx using Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4c3d47691281735e637505340737ec') in 0.016644 seconds
+  Import took 0.019284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_corner.fbx
+  artifactKey: Guid(1d25b80ea092a443a8259c7c710922b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_corner.fbx using Guid(1d25b80ea092a443a8259c7c710922b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f9c70046cf3a73640ee368cd63a0bd') in 0.028249 seconds
+  Import took 0.030793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_window_4.fbx
+  artifactKey: Guid(fcdd7de33059348d0ac4342e85a7d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_window_4.fbx using Guid(fcdd7de33059348d0ac4342e85a7d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56fb36b5afeb02aef509a4ca44ca2bb3') in 0.024935 seconds
+  Import took 0.027065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_floor_3.fbx
+  artifactKey: Guid(a757fb789363a464693e99a60aefe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_floor_3.fbx using Guid(a757fb789363a464693e99a60aefe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0d20545ccce136f40763557c0e101d') in 0.029635 seconds
+  Import took 0.032764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_floor_1.fbx
+  artifactKey: Guid(9a6e1271052bf45778b865a6cc6812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_floor_1.fbx using Guid(9a6e1271052bf45778b865a6cc6812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60143f3df661dc55c1988c527b953dd') in 0.023926 seconds
+  Import took 0.026361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1.fbx
+  artifactKey: Guid(2996789a4b18143b0a3ae2aee84e319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1.fbx using Guid(2996789a4b18143b0a3ae2aee84e319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2acddc68c318b65d9cdf3f39677db8') in 0.036570 seconds
+  Import took 0.039114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2339.854757 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1b13dd29a2e6ad5176dc37029a268e') in 0.014006 seconds
+  Import took 0.016733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.203535 seconds.
+  path: Assets/Scenes/Ancient Villa.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ancient Villa.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384237cbb237b181cf31afabc707aaed') in 0.011681 seconds
+  Import took 0.014996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.883016 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/No Name.mat
+  artifactKey: Guid(0e9c130ff647a433490dbd47203e97ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/No Name.mat using Guid(0e9c130ff647a433490dbd47203e97ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7666fe14596659376ac5c747f1bcbf1b') in 0.019426 seconds
+  Import took 0.022222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003900 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_roof_support_1_square.fbx
+  artifactKey: Guid(a65dcd75712c34e32a907106630cc03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_roof_support_1_square.fbx using Guid(a65dcd75712c34e32a907106630cc03f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f57a5c1fe76d9c41e615c5ae40b497') in 0.024198 seconds
+  Import took 0.027255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005061 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Grip.mat
+  artifactKey: Guid(aa8ab2261e7c24c1699ff0d6d0535e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Grip.mat using Guid(aa8ab2261e7c24c1699ff0d6d0535e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e08e16079dca9f912cff5ccaa5ba5c') in 0.024586 seconds
+  Import took 0.026699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002685 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_2.fbx
+  artifactKey: Guid(0bf5cda87f1ff42e0a11a468c67f3036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_2.fbx using Guid(0bf5cda87f1ff42e0a11a468c67f3036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d36cac1fbe65ea76d63ca6820b19a8') in 0.021378 seconds
+  Import took 0.023721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004005 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent.mat
+  artifactKey: Guid(ef03dfe87f8584912abcf4b8405b57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent.mat using Guid(ef03dfe87f8584912abcf4b8405b57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610c12082a2b989d3ab8750b4c3241bf') in 0.016394 seconds
+  Import took 0.018984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003687 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_3.mat
+  artifactKey: Guid(04ce9ea98c3254122a2446aa1ba9aa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_3.mat using Guid(04ce9ea98c3254122a2446aa1ba9aa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de15763386ba442991375a50df2cd068') in 0.016473 seconds
+  Import took 0.018859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006506 seconds.
+  path: Assets/Greek Statue/Mesh
+  artifactKey: Guid(db3086ad467b8e84e892b63db5eaaee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Mesh using Guid(db3086ad467b8e84e892b63db5eaaee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b632698473ecc3bb490ccf4aaccb077') in 0.005916 seconds
+  Import took 0.008083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002054 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials/No Name.mat
+  artifactKey: Guid(c1bf7e071bf624114aaefa78375a0ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials/No Name.mat using Guid(c1bf7e071bf624114aaefa78375a0ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a68109966d992e1902253ae956478a3') in 0.007838 seconds
+  Import took 0.010156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002497 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_2.fbx
+  artifactKey: Guid(dd1d1adab78eb4a5d9e2669fcfe5e949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_2.fbx using Guid(dd1d1adab78eb4a5d9e2669fcfe5e949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afcf570f5ce6088387d107680ea1e5d1') in 0.016591 seconds
+  Import took 0.018729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010922 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_column_1.prefab
+  artifactKey: Guid(4abdf7b93123944ebbfa66fa5c5724a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_column_1.prefab using Guid(4abdf7b93123944ebbfa66fa5c5724a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de31b90e0ce85fda1aa2181e12cf303e') in 0.017062 seconds
+  Import took 0.019502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002919 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_corner.prefab
+  artifactKey: Guid(432e56ebce53a4c5cb62ed392d89739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_corner.prefab using Guid(432e56ebce53a4c5cb62ed392d89739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec67680a7013cf4f8556633ebad986e0') in 0.012106 seconds
+  Import took 0.014303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002499 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures/Roman_Combined.png
+  artifactKey: Guid(77cc6f0a4bbc84c55889f43e4c325e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures/Roman_Combined.png using Guid(77cc6f0a4bbc84c55889f43e4c325e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdda17ddb3806f8cc0f2998598eab17d') in 0.014443 seconds
+  Import took 0.016926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003058 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_1_short.prefab
+  artifactKey: Guid(2f64a188d4a88411699cb128883e863c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_1_short.prefab using Guid(2f64a188d4a88411699cb128883e863c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e387f57541031ec5e8f82bdcdf6e116') in 0.016459 seconds
+  Import took 0.018672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007438 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Stone.mat
+  artifactKey: Guid(989ec08de98a4410eb801c5936c5925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Stone.mat using Guid(989ec08de98a4410eb801c5936c5925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01cb8bb810ec7ac863e67063de417c09') in 0.018075 seconds
+  Import took 0.020227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002264 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials
+  artifactKey: Guid(961d0d89c6a3f49209a2c3888ee6dfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials using Guid(961d0d89c6a3f49209a2c3888ee6dfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be08a81ac4b61416f2748e80c1066574') in 0.005932 seconds
+  Import took 0.008125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003798 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_stairs_stone.fbx
+  artifactKey: Guid(8ddde200adcef45bd82fad13528a8f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_stairs_stone.fbx using Guid(8ddde200adcef45bd82fad13528a8f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712983945eee4737f072c199197544cc') in 0.016040 seconds
+  Import took 0.018524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002653 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor2.mat
+  artifactKey: Guid(fb073922d7d9f42e9aabaa30a19c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor2.mat using Guid(fb073922d7d9f42e9aabaa30a19c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ba77507b5379220f2d76d5cd9ddf41') in 0.016250 seconds
+  Import took 0.018369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002954 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_barrel.fbx
+  artifactKey: Guid(34151078546704b5ca217404a68d7399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_barrel.fbx using Guid(34151078546704b5ca217404a68d7399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80564fa326b820776e355d42837b17c8') in 0.018206 seconds
+  Import took 0.020599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008137 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_1.prefab
+  artifactKey: Guid(4e0d0906133d4477a8bf2cbe2f758caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_1.prefab using Guid(4e0d0906133d4477a8bf2cbe2f758caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e32c7a07d464d6596ba00b34c9a167') in 0.016040 seconds
+  Import took 0.018180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007744 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Standard_Gold.mat
+  artifactKey: Guid(e332ab6b2a3fd439aa6713fd318a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Standard_Gold.mat using Guid(e332ab6b2a3fd439aa6713fd318a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69988fe30c99dcbb30db8569602cd535') in 0.016972 seconds
+  Import took 0.019313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002487 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Leather.mat
+  artifactKey: Guid(ee36f81635f5241989d9640abfc875d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Leather.mat using Guid(ee36f81635f5241989d9640abfc875d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9868c973fa2f8e291ad3c8560dfc88c4') in 0.022904 seconds
+  Import took 0.025163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002747 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_3.fbx
+  artifactKey: Guid(73711748d0cb34b96a1cc1b97001668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_3.fbx using Guid(73711748d0cb34b96a1cc1b97001668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977388d319312be93f04e9b6634e88f6') in 0.029736 seconds
+  Import took 0.032125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004258 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_column_2.prefab
+  artifactKey: Guid(7aaea4c6ceef14ca8a5866beb67602d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_column_2.prefab using Guid(7aaea4c6ceef14ca8a5866beb67602d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbfabfc76eea2eb99b283b4448c57f37') in 0.021430 seconds
+  Import took 0.024147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010890 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Silver.mat
+  artifactKey: Guid(dd6df887158174189bcfc9ff22e46154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Silver.mat using Guid(dd6df887158174189bcfc9ff22e46154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a00722974346793217b1448c2e8988d') in 0.017564 seconds
+  Import took 0.019746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015403 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_1.fbx
+  artifactKey: Guid(c9851a01e3e2145dba928568af4977ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_1.fbx using Guid(c9851a01e3e2145dba928568af4977ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea46b16b74f93d3a434f2f987218c5e5') in 0.016200 seconds
+  Import took 0.018458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009355 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_window.prefab
+  artifactKey: Guid(ee4e0119514384f4c9dea10a3e1b4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_window.prefab using Guid(ee4e0119514384f4c9dea10a3e1b4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c677573c1997c039828840ee348adbc') in 0.012046 seconds
+  Import took 0.014188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005632 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_column_1.fbx
+  artifactKey: Guid(ca0f1ba41347b4c5792659c6befeebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_column_1.fbx using Guid(ca0f1ba41347b4c5792659c6befeebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b269b147faa473409ae639448f0b0490') in 0.018449 seconds
+  Import took 0.020806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002776 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_tree_2.fbx
+  artifactKey: Guid(469fd7579034c4a75b909adde640dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_tree_2.fbx using Guid(469fd7579034c4a75b909adde640dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87881d3aa7433272d98deb829234b7d1') in 0.022054 seconds
+  Import took 0.024265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002631 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_barrel.prefab
+  artifactKey: Guid(7251092cbdec54aa9b430480a68a5817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_barrel.prefab using Guid(7251092cbdec54aa9b430480a68a5817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99535b7394ede455182c99b02f59d37f') in 0.013853 seconds
+  Import took 0.015909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002809 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Base.mat
+  artifactKey: Guid(d1538a6ebe976405da13a539ae6b1b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Base.mat using Guid(d1538a6ebe976405da13a539ae6b1b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99107be28629998e4df60070a24f310a') in 0.017187 seconds
+  Import took 0.019501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003212 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_1.fbx
+  artifactKey: Guid(297546ac818534107be6e9500c5ce720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_1.fbx using Guid(297546ac818534107be6e9500c5ce720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '568a09a097e81253b640f5487c59b15b') in 0.015567 seconds
+  Import took 0.017591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002392 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_canopy_hanging.prefab
+  artifactKey: Guid(fa68d033c32664f66a08580f7ed0cc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_canopy_hanging.prefab using Guid(fa68d033c32664f66a08580f7ed0cc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4de3dd018bdfd94e222dc61b01e1140') in 0.011931 seconds
+  Import took 0.014119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006517 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_med.prefab
+  artifactKey: Guid(1e4ec8d503fa249b98f781ace1f67161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_med.prefab using Guid(1e4ec8d503fa249b98f781ace1f67161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a10bcbcf3e224ee033681ecda76e0c') in 0.016244 seconds
+  Import took 0.027108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007354 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Silver.mat
+  artifactKey: Guid(7dcfc293529324baa8d2926977b73b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Silver.mat using Guid(7dcfc293529324baa8d2926977b73b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6230b617472c7e3126f0c8e511555299') in 0.018089 seconds
+  Import took 0.020273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002735 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_door.fbx
+  artifactKey: Guid(99f7ce621893f4613af7ef3d6322ef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_door.fbx using Guid(99f7ce621893f4613af7ef3d6322ef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d41faae07ab25a14770598fde0fe6ad') in 0.020202 seconds
+  Import took 0.022205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002887 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_2.fbx
+  artifactKey: Guid(dc6b835c9b1824a918ba6ff1085d3a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_2.fbx using Guid(dc6b835c9b1824a918ba6ff1085d3a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e48ccec5613b62106e8e58a70d336b4') in 0.015881 seconds
+  Import took 0.017871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011603 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_1.mat
+  artifactKey: Guid(4cfbb3165ed714cd788b7eb1fcfc3899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_1.mat using Guid(4cfbb3165ed714cd788b7eb1fcfc3899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedbc180f80ccc77c3892df108402374') in 0.016041 seconds
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002552 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood3.mat
+  artifactKey: Guid(55f1e3510e09d4a409ef80f2979e7e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood3.mat using Guid(55f1e3510e09d4a409ef80f2979e7e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b64f38adbf98299a64b963a2d352fc') in 0.018085 seconds
+  Import took 0.020091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002826 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_2_corner.prefab
+  artifactKey: Guid(1a2eacdeefbba44b19d4b5fe061b2374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_2_corner.prefab using Guid(1a2eacdeefbba44b19d4b5fe061b2374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0995bfce7a7eec33e33bafc303ecb125') in 0.016645 seconds
+  Import took 0.018985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015358 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Detail.mat
+  artifactKey: Guid(699ffeb7a51c147558699fb25a930228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Detail.mat using Guid(699ffeb7a51c147558699fb25a930228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4623a148544ebf009793b4acb6b1da0') in 0.016768 seconds
+  Import took 0.019013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002968 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood.mat
+  artifactKey: Guid(e8bc1f419791c4d92b3126b8fe49b1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood.mat using Guid(e8bc1f419791c4d92b3126b8fe49b1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a941849bf4707c6c0ce9991d04888119') in 0.018574 seconds
+  Import took 0.020990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003161 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_window_4.prefab
+  artifactKey: Guid(2666c16adc2af4763bd571e89891c1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_window_4.prefab using Guid(2666c16adc2af4763bd571e89891c1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd73a5fefe845e2a29ce222b55b0aef') in 0.013693 seconds
+  Import took 0.015888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012436 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_1.fbx
+  artifactKey: Guid(3c00d5238781748bd9606397b3544b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_1.fbx using Guid(3c00d5238781748bd9606397b3544b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182f770aebb3ee1bfc230ead29415db5') in 0.015934 seconds
+  Import took 0.018464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002708 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_support_1_square.prefab
+  artifactKey: Guid(9ee12aeec959f4f5caac4992d81d9160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_support_1_square.prefab using Guid(9ee12aeec959f4f5caac4992d81d9160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931b51bfab5269fd069d2558c7ce90c1') in 0.012037 seconds
+  Import took 0.048458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048850 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_4.fbx
+  artifactKey: Guid(c4f9b5420a3004926ab0e8186ee43daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_4.fbx using Guid(c4f9b5420a3004926ab0e8186ee43daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cc854b4d6e3eb267b919d9fd849382') in 0.021425 seconds
+  Import took 0.024569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005171 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_short.prefab
+  artifactKey: Guid(f0820f42100e44a09b590b26a06f7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_short.prefab using Guid(f0820f42100e44a09b590b26a06f7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d8809fd12460a73591eaed26989643') in 0.021534 seconds
+  Import took 0.024448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002927 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_crate_closed.prefab
+  artifactKey: Guid(efb76ba89794a422788a3b1a77a120d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_crate_closed.prefab using Guid(efb76ba89794a422788a3b1a77a120d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08bc0048f6f22b909766015ff1011222') in 0.016205 seconds
+  Import took 0.018909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004546 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas2.mat
+  artifactKey: Guid(be570cde3c39843c0aaed288d99a5ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas2.mat using Guid(be570cde3c39843c0aaed288d99a5ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbd28627784f07ddd7034ec030118bf5') in 0.022987 seconds
+  Import took 0.025657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002870 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_window.fbx
+  artifactKey: Guid(2c315cf1e2ee34a84a518d1afd8a04d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_window.fbx using Guid(2c315cf1e2ee34a84a518d1afd8a04d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053dc5e899da6ff994d819532d360872') in 0.024904 seconds
+  Import took 0.028280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007275 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_corner.fbx
+  artifactKey: Guid(bf26b16c8239f4f59a365eea0b3fec4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_2_corner.fbx using Guid(bf26b16c8239f4f59a365eea0b3fec4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7014656e07fac3ceebc7fb4f59e2b048') in 0.037799 seconds
+  Import took 0.041606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004121 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Combined.mat
+  artifactKey: Guid(6c4a1c5a1928847198c3296136951f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Combined.mat using Guid(6c4a1c5a1928847198c3296136951f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5586c4f48a50b2a84222cd9bd8416ad') in 0.022809 seconds
+  Import took 0.026553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009588 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized
+  artifactKey: Guid(5c195316bb1ca43328fce27cb67d7717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized using Guid(5c195316bb1ca43328fce27cb67d7717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ec5cab2ff0c0940d84072d4f7f72e5') in 0.012141 seconds
+  Import took 0.015878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003696 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_door_4.prefab
+  artifactKey: Guid(be044c286f8114ab491aedaab01115f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_door_4.prefab using Guid(be044c286f8114ab491aedaab01115f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4e3cbfa7047259ebcb4f2ee876da09') in 0.023190 seconds
+  Import took 0.027056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011364 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_1_corner.prefab
+  artifactKey: Guid(18fe6bae84f7f4a118d78542f46e044f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_1_corner.prefab using Guid(18fe6bae84f7f4a118d78542f46e044f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da72369a4f6e52bb5bc3870146a4a490') in 0.024852 seconds
+  Import took 0.028007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003048 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1_offset.fbx
+  artifactKey: Guid(991f3192fd74641ddbd6b062433e37fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1_offset.fbx using Guid(991f3192fd74641ddbd6b062433e37fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934b0acb98d873f6659bff0cafbd17ef') in 0.029129 seconds
+  Import took 0.031254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002873 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_floor_stone_1.prefab
+  artifactKey: Guid(64415c113d5164fec8cdb5d9de6e3c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_floor_stone_1.prefab using Guid(64415c113d5164fec8cdb5d9de6e3c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0608f34c9093f5ecc1c565b1e6c6e62b') in 0.011966 seconds
+  Import took 0.014017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002808 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_2.mat
+  artifactKey: Guid(42ea1f36539a34bbe9ef783bae131bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_2.mat using Guid(42ea1f36539a34bbe9ef783bae131bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f107556bd7f4594c9b3fe0a7ae7166') in 0.018428 seconds
+  Import took 0.020656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002694 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor3.mat
+  artifactKey: Guid(b4243c95ba7ae4217bda6ac105a09231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor3.mat using Guid(b4243c95ba7ae4217bda6ac105a09231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11440ad29cc33031090198fec86035c') in 0.016369 seconds
+  Import took 0.018445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006447 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_med.fbx
+  artifactKey: Guid(7540670d170174548befdb2fba64ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_med.fbx using Guid(7540670d170174548befdb2fba64ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaa2f0ad6cc971f5a1d91b1c75997be') in 0.018051 seconds
+  Import took 0.020199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002735 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_slanted.fbx
+  artifactKey: Guid(72692a82fa8b9421bb370b8728e725e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_slanted.fbx using Guid(72692a82fa8b9421bb370b8728e725e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '423a5d31f367435126ba9d5ae80f54a4') in 0.016096 seconds
+  Import took 0.018254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006022 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood4.mat
+  artifactKey: Guid(673288bcc0f0f4af382f6aeb2f7a0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood4.mat using Guid(673288bcc0f0f4af382f6aeb2f7a0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439361e4bd19986a18b81e882627ae8d') in 0.018325 seconds
+  Import took 0.020378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004290 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials
+  artifactKey: Guid(bbb3188497b154fd0862526fe97b91f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials using Guid(bbb3188497b154fd0862526fe97b91f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042a32dc6323e6b1c55952179f220db0') in 0.002093 seconds
+  Import took 0.004087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002361 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor1.mat
+  artifactKey: Guid(24324b837c1674232ac3ddfd79fda341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor1.mat using Guid(24324b837c1674232ac3ddfd79fda341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bbb893b2c8cafa14574dffb0fb9b9b') in 0.017904 seconds
+  Import took 0.019947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005573 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_stairs_stone_corner.fbx
+  artifactKey: Guid(13865bfb066064010b281664d44fb967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_stairs_stone_corner.fbx using Guid(13865bfb066064010b281664d44fb967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e0a8b965a20b4a3cd840dfd84f64ba') in 0.021006 seconds
+  Import took 0.023134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009144 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_tall.fbx
+  artifactKey: Guid(5259c0cb8e35843168780ff0fce3010c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_tall.fbx using Guid(5259c0cb8e35843168780ff0fce3010c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6392d554fedb888e09d0e0ba92db2eee') in 0.020982 seconds
+  Import took 0.023361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005034 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_corner.prefab
+  artifactKey: Guid(71cab83f08c1b4fc5b6aca6be2779aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_corner.prefab using Guid(71cab83f08c1b4fc5b6aca6be2779aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94938151606ff9e58cafcf5972032a1d') in 0.011994 seconds
+  Import took 0.014124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039703 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_1.mat
+  artifactKey: Guid(a56f71238a05c4475bbbf0ce0e80e0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_1.mat using Guid(a56f71238a05c4475bbbf0ce0e80e0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef191f00a1c4ba0d971039c256be6c70') in 0.016806 seconds
+  Import took 0.037473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003152 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures
+  artifactKey: Guid(3a4b2db980ed54ea2999672fb268c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures using Guid(3a4b2db980ed54ea2999672fb268c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77802f64aada8e95ae67d5a7bda760c4') in 0.001987 seconds
+  Import took 0.004159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002257 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_2.mat
+  artifactKey: Guid(cd65f869c1e8449729555a5ef6834dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_2.mat using Guid(cd65f869c1e8449729555a5ef6834dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6c26d31c1dc5595757f73d926356b8') in 0.020087 seconds
+  Import took 0.022168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002615 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_floor_stone_1.fbx
+  artifactKey: Guid(6d7c450bf11474e3ca044e5b660efa9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_floor_stone_1.fbx using Guid(6d7c450bf11474e3ca044e5b660efa9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b4b4fd07dbdcdaf7a87c0bdb437b09') in 0.015775 seconds
+  Import took 0.017887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008702 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor1.mat
+  artifactKey: Guid(e940f3f10cf1d4f549a403cb74137914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor1.mat using Guid(e940f3f10cf1d4f549a403cb74137914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bd69971cde41e7d189ff4a296bcd8d') in 0.016586 seconds
+  Import took 0.018650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002655 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Clay.mat
+  artifactKey: Guid(8197ee08c6dca49caabb2e860ced7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Clay.mat using Guid(8197ee08c6dca49caabb2e860ced7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c26484b33c6a920c824254561791c8d') in 0.016804 seconds
+  Import took 0.019140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005007 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_door_2.prefab
+  artifactKey: Guid(52e01b3efb68d4378a4bf0e956dea77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_door_2.prefab using Guid(52e01b3efb68d4378a4bf0e956dea77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af31f1d7f48bae2a67d667d5def4f2d4') in 0.012514 seconds
+  Import took 0.014601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002753 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.001.mat
+  artifactKey: Guid(9cc9a3e3db183404186323e776e0384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.001.mat using Guid(9cc9a3e3db183404186323e776e0384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6f60e3e62d6c9401624e4e778b65df') in 0.017660 seconds
+  Import took 0.019658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001724 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized
+  artifactKey: Guid(0a2f2a96b66f34e2d9857f1bfe7258da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized using Guid(0a2f2a96b66f34e2d9857f1bfe7258da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f156f8a571abe5509063d9f11c93796c') in 0.001778 seconds
+  Import took 0.003935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003241 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_3.prefab
+  artifactKey: Guid(745ee72cb7ee542b7b31ff060e87d3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_3.prefab using Guid(745ee72cb7ee542b7b31ff060e87d3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4516c40ba480f53ab66c8cd54c172b1') in 0.015560 seconds
+  Import took 0.018048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003561 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_1_square.prefab
+  artifactKey: Guid(bc4d7f338806343c0af659202a9aa4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_1_square.prefab using Guid(bc4d7f338806343c0af659202a9aa4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4173d744ab724fc71187c8d9aa2f8d1') in 0.013284 seconds
+  Import took 0.015324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008505 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_1_short.fbx
+  artifactKey: Guid(3242d7363a25a4d4bb2d19e5fef3decf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_1_short.fbx using Guid(3242d7363a25a4d4bb2d19e5fef3decf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11be272ab7fff137d22c44489c0c14b0') in 0.022111 seconds
+  Import took 0.024527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004717 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_short.fbx
+  artifactKey: Guid(151338a2b346e4eb3b3f23fa05ccaab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_short.fbx using Guid(151338a2b346e4eb3b3f23fa05ccaab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80723d209b4ef5da5304a83d90bf133a') in 0.021932 seconds
+  Import took 0.024161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004416 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_fence_wood_2.prefab
+  artifactKey: Guid(a84f9954490aa4c1598cb2defc199a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_fence_wood_2.prefab using Guid(a84f9954490aa4c1598cb2defc199a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a3c544ca2c0f5b2c6de3db4f293e3b') in 0.018876 seconds
+  Import took 0.021293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004297 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_roof_support_1.fbx
+  artifactKey: Guid(ce041621d784c42009ca81fa78cf1a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_roof_support_1.fbx using Guid(ce041621d784c42009ca81fa78cf1a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf0ce10a21936ceb4be1c9d9231a990') in 0.015660 seconds
+  Import took 0.018062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002777 seconds.
+  path: Assets/My Prefabs/Column.prefab
+  artifactKey: Guid(7c429392a4931a44493124f811279e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Column.prefab using Guid(7c429392a4931a44493124f811279e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33201b491b49d19516214f6bb686fb03') in 0.018616 seconds
+  Import took 0.020924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002104 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized
+  artifactKey: Guid(1db3710dea05245b7b87a7342814bb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized using Guid(1db3710dea05245b7b87a7342814bb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3911f96b11b92ced7cd7af36469051') in 0.001974 seconds
+  Import took 0.003856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002152 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_column_2.fbx
+  artifactKey: Guid(d56dfd26ed8664782aad4a260be4c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_column_2.fbx using Guid(d56dfd26ed8664782aad4a260be4c2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4009bb238fa5a6223135d287956551eb') in 0.015204 seconds
+  Import took 0.017353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004939 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_2_corner.fbx
+  artifactKey: Guid(864e909ae971d4e1ba0d8b4b1a338f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_2_corner.fbx using Guid(864e909ae971d4e1ba0d8b4b1a338f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355abd52e8c856ff77280cbfec5e66eb') in 0.016575 seconds
+  Import took 0.018807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007201 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood2.mat
+  artifactKey: Guid(c3219821e129b4c2cba97608dd43ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood2.mat using Guid(c3219821e129b4c2cba97608dd43ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307a22a49706724724a8cd1667db5dda') in 0.016754 seconds
+  Import took 0.018906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004589 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_2.prefab
+  artifactKey: Guid(c9456250607d8475ab62d445a8db0bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_divider_2.prefab using Guid(c9456250607d8475ab62d445a8db0bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6599c604a8b9d3277ceebcddd6b740ad') in 0.012561 seconds
+  Import took 0.014677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009750 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_fence_wood_2.fbx
+  artifactKey: Guid(11bcf6133cb134f678654b5c2cce0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_fence_wood_2.fbx using Guid(11bcf6133cb134f678654b5c2cce0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415574eac05055d4bc95c4c802bd6a1f') in 0.016024 seconds
+  Import took 0.018290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002723 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_1.prefab
+  artifactKey: Guid(9f33a6e3519754757b16ad7fc0602956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_1.prefab using Guid(9f33a6e3519754757b16ad7fc0602956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db875bd20ed8d3b68bd117f71eed3c20') in 0.012323 seconds
+  Import took 0.014318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007653 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_slanted.prefab
+  artifactKey: Guid(7e9b59192a4e64576b1fe0b66a3134be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_slanted.prefab using Guid(7e9b59192a4e64576b1fe0b66a3134be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e6ee06b0cee954784e04bdf7bb4926') in 0.022856 seconds
+  Import took 0.025055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002644 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_column_3.fbx
+  artifactKey: Guid(466988aeaa1b046d88dc94f7d07e34d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_column_3.fbx using Guid(466988aeaa1b046d88dc94f7d07e34d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71370eb37e37e93cf743a9c0a3ef1c9') in 0.020173 seconds
+  Import took 0.022248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002596 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/Greek_Combined.mat
+  artifactKey: Guid(6a723adf9bbee4535b3b125e8b3f8c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/Greek_Combined.mat using Guid(6a723adf9bbee4535b3b125e8b3f8c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550ca73cb938a2b906da3f7032b5f254') in 0.012067 seconds
+  Import took 0.014126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005814 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood5.mat
+  artifactKey: Guid(7c585135ecd8f4e328e250a211fcf74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood5.mat using Guid(7c585135ecd8f4e328e250a211fcf74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f87e2f71dd658baee83e46d2ef1f6a') in 0.016528 seconds
+  Import took 0.018667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002868 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_stairs_stone_corner.prefab
+  artifactKey: Guid(f5b1e8fc198b24ebf85f258b7b247ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_stairs_stone_corner.prefab using Guid(f5b1e8fc198b24ebf85f258b7b247ac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2741600f7a7754936481e3d15e01b7a2') in 0.012204 seconds
+  Import took 0.014474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004389 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1.fbx
+  artifactKey: Guid(397ff0630227c4ae2845b179da962d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1.fbx using Guid(397ff0630227c4ae2845b179da962d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0c5f32edae6b1c0576ae7d17e1fd3c') in 0.026462 seconds
+  Import took 0.029277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002724 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Dirt.mat
+  artifactKey: Guid(ca0346ec313b74155932ed6b655bf35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Dirt.mat using Guid(ca0346ec313b74155932ed6b655bf35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb4d05cc1687d5078e76bf3c7fbc0bf') in 0.016413 seconds
+  Import took 0.018510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008099 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_crate_closed.fbx
+  artifactKey: Guid(b4f625366f7334e868444f2e62fc8f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_crate_closed.fbx using Guid(b4f625366f7334e868444f2e62fc8f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7c9695199ae2f29b193e683f7ce8fa') in 0.020546 seconds
+  Import took 0.022961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002379 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials
+  artifactKey: Guid(330e417a335b642dca7a1350af669aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials using Guid(330e417a335b642dca7a1350af669aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '713472526d46b93c9e4436d6a8039ee7') in 0.001893 seconds
+  Import took 0.003803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002403 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_tall.prefab
+  artifactKey: Guid(a1b929db7fade4d70bb4ac665348bee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_tall.prefab using Guid(a1b929db7fade4d70bb4ac665348bee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b50bbaea67312909503f05d365409be') in 0.011594 seconds
+  Import took 0.013597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004927 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_square.prefab
+  artifactKey: Guid(9b30bf7bb77c348958e4711eec8fcc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_square.prefab using Guid(9b30bf7bb77c348958e4711eec8fcc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9729dba6b5094471a71c99d6004fce') in 0.015089 seconds
+  Import took 0.017735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004309 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_1.prefab
+  artifactKey: Guid(d61eb9bc178fc4ab8b652cb3edc513a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_1.prefab using Guid(d61eb9bc178fc4ab8b652cb3edc513a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fad7b407eae5d06e9814f7207a031c') in 0.018077 seconds
+  Import took 0.020381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002827 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/PalmBark1.mat
+  artifactKey: Guid(c57007770923644ceaf0544b9497ea9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/PalmBark1.mat using Guid(c57007770923644ceaf0544b9497ea9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38098984380c702a8417a9c2c4c92d13') in 0.017236 seconds
+  Import took 0.019610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002812 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_window_4.fbx
+  artifactKey: Guid(f570a44260cf04795b042782f476671b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_window_4.fbx using Guid(f570a44260cf04795b042782f476671b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1017b2f99a617f6de03fd03010e060de') in 0.018275 seconds
+  Import took 0.020443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004458 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_short.fbx
+  artifactKey: Guid(41fef8225a2344ed58944b7b19501f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_short.fbx using Guid(41fef8225a2344ed58944b7b19501f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6051fcb680466f630716db118eb4a54') in 0.020447 seconds
+  Import took 0.022634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003302 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1.prefab
+  artifactKey: Guid(85feb69a6165b49b9abf7e2dfa7f3674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1.prefab using Guid(85feb69a6165b49b9abf7e2dfa7f3674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e6511d8051f7e092f6d62c38c0075f') in 0.011915 seconds
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004066 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_stairs_stone.prefab
+  artifactKey: Guid(1ed7a8b50527442d08a868101201615d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_stairs_stone.prefab using Guid(1ed7a8b50527442d08a868101201615d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9afc781de2b73218bc582c09fccf3d8') in 0.012084 seconds
+  Import took 0.014466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017516 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_column_1.prefab
+  artifactKey: Guid(16ef128dc42d14db69456063b938fb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_column_1.prefab using Guid(16ef128dc42d14db69456063b938fb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94da94611db03eb3bbca6093abfaa50a') in 0.016137 seconds
+  Import took 0.018383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052631 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_1.prefab
+  artifactKey: Guid(f6fd3b73e18ad42b0ba16ab79e69a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_1.prefab using Guid(f6fd3b73e18ad42b0ba16ab79e69a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7db4963d808abdbd2deb1939ce7109') in 0.018344 seconds
+  Import took 0.021330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002691 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent2.mat
+  artifactKey: Guid(d88057aa139674e808e8fb8488077697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent2.mat using Guid(d88057aa139674e808e8fb8488077697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47645bc1f5f965caebf8b698df53d9ff') in 0.019156 seconds
+  Import took 0.021539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010915 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_short.prefab
+  artifactKey: Guid(859c39be62a7446838192618b6e1deb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_short.prefab using Guid(859c39be62a7446838192618b6e1deb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3360e2f614505857dc73f486deef0518') in 0.013841 seconds
+  Import took 0.016224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002600 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1_offset.prefab
+  artifactKey: Guid(2b834276ddd1347b8a174e37c48dfc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1_offset.prefab using Guid(2b834276ddd1347b8a174e37c48dfc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f391115dfd3a5c0a3906555d2b06d932') in 0.013792 seconds
+  Import took 0.016323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007741 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Bronze.mat
+  artifactKey: Guid(b26700a469fbc440fb9ab395aa8940e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Bronze.mat using Guid(b26700a469fbc440fb9ab395aa8940e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68c66bb8b956e5e2a57838f5633b8c3') in 0.018997 seconds
+  Import took 0.021574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004015 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_square.fbx
+  artifactKey: Guid(31ec4efc3b57e471389dba2e971c5c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_square.fbx using Guid(31ec4efc3b57e471389dba2e971c5c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505ba5d4ceecda96920dbe183783566b') in 0.018229 seconds
+  Import took 0.020663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002456 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_column_1.fbx
+  artifactKey: Guid(c909a27d2314c41a09991750ab8d038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_column_1.fbx using Guid(c909a27d2314c41a09991750ab8d038c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64f264e7ca9dc0f6a5e3bac8bcb2d56') in 0.020735 seconds
+  Import took 0.023207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004248 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Water.mat
+  artifactKey: Guid(272ba4a09e02c4424b1fa56aa009f13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Water.mat using Guid(272ba4a09e02c4424b1fa56aa009f13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d41809d69fbf0fca5427b2064e55b84') in 0.024159 seconds
+  Import took 0.026628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002904 seconds.
+  path: Assets/Scenes/Ancient Villa.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ancient Villa.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f1ddeb17423e297b6359e704c264af') in 0.002544 seconds
+  Import took 0.005065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002169 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_roof_1_square.fbx
+  artifactKey: Guid(899d91913ad2a4749a51e98517a0cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_roof_1_square.fbx using Guid(899d91913ad2a4749a51e98517a0cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621d753002b99617c57cafedae76c7d4') in 0.017604 seconds
+  Import took 0.019999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005033 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_door_4.fbx
+  artifactKey: Guid(b677f6504070e42c2801b43b01604705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_door_4.fbx using Guid(b677f6504070e42c2801b43b01604705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25cd7180fe99d21ca6cc0f09ee5a8134') in 0.018969 seconds
+  Import took 0.021926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002865 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/PalmBark2.mat
+  artifactKey: Guid(34387c295b1a0465ea12d13998db0d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/PalmBark2.mat using Guid(34387c295b1a0465ea12d13998db0d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653a75e62de6701f1052cfae06ee3a51') in 0.020802 seconds
+  Import took 0.023676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002798 seconds.
+  path: Assets/Greek Statue/Mesh/GreekStatue.fbx
+  artifactKey: Guid(e728ae35feab2834fa1f7a8599fe9678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Mesh/GreekStatue.fbx using Guid(e728ae35feab2834fa1f7a8599fe9678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb3499be4b33707a843d938eb23c9cf') in 0.105327 seconds
+  Import took 0.108604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006184 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/Greek_Stone_6.001.mat
+  artifactKey: Guid(e79951c3f404a46d8892a5098e1a866d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/Greek_Stone_6.001.mat using Guid(e79951c3f404a46d8892a5098e1a866d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9e4b0434c78fb01dcfc7fb5e70ae6c') in 0.019992 seconds
+  Import took 0.022387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005374 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_tree_2.prefab
+  artifactKey: Guid(e5954255315c546a1978e9f8cdb56165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_tree_2.prefab using Guid(e5954255315c546a1978e9f8cdb56165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6411183ff89cba5c979529cf1fc3dd') in 0.014877 seconds
+  Import took 0.017238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005094 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized
+  artifactKey: Guid(234354b3d7e1646bb90a382f739ef392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized using Guid(234354b3d7e1646bb90a382f739ef392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7f90a3d386e5b15ce9dcd7feba9ad2') in 0.002005 seconds
+  Import took 0.004004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002372 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_3.mat
+  artifactKey: Guid(a2e6e20f5fda94ed8a4d63b688de747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_3.mat using Guid(a2e6e20f5fda94ed8a4d63b688de747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcf6719dd29996b20f21a96438bbbae') in 0.022205 seconds
+  Import took 0.024987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002693 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor2.mat
+  artifactKey: Guid(e6a99abb4678d4b4096929ee8599d62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor2.mat using Guid(e6a99abb4678d4b4096929ee8599d62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f452ad86d326b53d10c776b4d3082e7a') in 0.024219 seconds
+  Import took 0.026329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015027 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.mat
+  artifactKey: Guid(bc5d62ddde89c426eb45c7064e5c8822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.mat using Guid(bc5d62ddde89c426eb45c7064e5c8822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9680fbdf48ac4a709ea9bb07d7f8c35b') in 0.019533 seconds
+  Import took 0.022358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003089 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_2.prefab
+  artifactKey: Guid(87a39bb14ca78405caef446ecff157a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_2.prefab using Guid(87a39bb14ca78405caef446ecff157a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22813dc38b2e3bb271f870215642019') in 0.014028 seconds
+  Import took 0.016363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002756 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/PalmDarkBark.mat
+  artifactKey: Guid(ac1631addf47a43369d997aaf619a8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/PalmDarkBark.mat using Guid(ac1631addf47a43369d997aaf619a8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde58bcac94e980e2f5998ec56e12cdb') in 0.021883 seconds
+  Import took 0.024014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004546 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_door_2.fbx
+  artifactKey: Guid(be59616bfc57a40b197746461c3700fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_door_2.fbx using Guid(be59616bfc57a40b197746461c3700fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5535e18f14bf0b6550369e13d91cba34') in 0.019635 seconds
+  Import took 0.021928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020212 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_4.prefab
+  artifactKey: Guid(dbc0bdea48cb7491886dc0a0c690ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_4.prefab using Guid(dbc0bdea48cb7491886dc0a0c690ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8502b8f3d18f9835fe48913a40ad911e') in 0.012571 seconds
+  Import took 0.016188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003756 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_corner.fbx
+  artifactKey: Guid(43b1b6c15e6b84cdaa2347eeefa6cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_corner.fbx using Guid(43b1b6c15e6b84cdaa2347eeefa6cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd0db72a7c7dcaefe17f8ec43ea63e7') in 0.018960 seconds
+  Import took 0.021282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002772 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_door.prefab
+  artifactKey: Guid(e8a584d2a67484ae6a43f1e52810957e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2_door.prefab using Guid(e8a584d2a67484ae6a43f1e52810957e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21879e224a74aceed79f4ca848ced195') in 0.016493 seconds
+  Import took 0.018737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004449 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_canopy_hanging.fbx
+  artifactKey: Guid(fe32c8ff874bc4d5183c900493315a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_canopy_hanging.fbx using Guid(fe32c8ff874bc4d5183c900493315a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f85950218e28bc7e355b775ea1a94b') in 0.032232 seconds
+  Import took 0.034867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046456 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Mast.mat
+  artifactKey: Guid(ac4d9c316c08d475ebb7937d7fc3d61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Mast.mat using Guid(ac4d9c316c08d475ebb7937d7fc3d61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11d4be9edc66e5ef3870e4be0fe6ce7') in 0.030892 seconds
+  Import took 0.033787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002400 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_column_3.prefab
+  artifactKey: Guid(86a4946b6bc974b1bad58a9f14118239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_column_3.prefab using Guid(86a4946b6bc974b1bad58a9f14118239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0355b9bde6fa2794ddd378131824c885') in 0.014023 seconds
+  Import took 0.016256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002758 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Gold.mat
+  artifactKey: Guid(14c34e69c9e904408a0c2e9fe5cdd7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Gold.mat using Guid(14c34e69c9e904408a0c2e9fe5cdd7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720c6d266d81ddea2bc04e9ec3ba57ea') in 0.016854 seconds
+  Import took 0.019295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002949 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2.prefab
+  artifactKey: Guid(bf225c7d88103412cb986408540d68ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_wall_2.prefab using Guid(bf225c7d88103412cb986408540d68ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c3e03a80cd3c7ad3f68c51bd2b8570') in 0.014178 seconds
+  Import took 0.016642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016241 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Feather.mat
+  artifactKey: Guid(e1672146ac76841e3b6a8eae6f15c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Feather.mat using Guid(e1672146ac76841e3b6a8eae6f15c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723e1195d9e67a3994336569248a8455') in 0.019530 seconds
+  Import took 0.022602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004861 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_roof_1.fbx
+  artifactKey: Guid(8a3797fbe413e4764a445981e28ab2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_roof_1.fbx using Guid(8a3797fbe413e4764a445981e28ab2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2a7ff392a983f557b1dc4cbbcc774d') in 0.016723 seconds
+  Import took 0.019325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006915 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/Materials/PalmLeaves.mat
+  artifactKey: Guid(6566343b3edd34143a9126c67862658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/Materials/PalmLeaves.mat using Guid(6566343b3edd34143a9126c67862658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6192bbbbb5e9cc8ee773d5462b3d8576') in 0.018669 seconds
+  Import took 0.020895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007197 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_Wood.mat
+  artifactKey: Guid(d5dd911c183b04d75b9089f6a3b47128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_Wood.mat using Guid(d5dd911c183b04d75b9089f6a3b47128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8728b1a52a2e54a2e186ba25bceb55') in 0.020727 seconds
+  Import took 0.023531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003082 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_support_1.prefab
+  artifactKey: Guid(342b0defc1dfc4bfda7270f755da3110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/Optimized/greek_roof_support_1.prefab using Guid(342b0defc1dfc4bfda7270f755da3110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3543df2ac8f7ad18f638740531f37d68') in 0.013547 seconds
+  Import took 0.015803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010875 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas.mat
+  artifactKey: Guid(490c233e685124994ae1f445dca7fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas.mat using Guid(490c233e685124994ae1f445dca7fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2c6dfb6ba4b74c51fa6d3adcc67ef0') in 0.021460 seconds
+  Import took 0.023555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002791 seconds.
+  path: Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_1_corner.fbx
+  artifactKey: Guid(27d0d7ea80fd844a0962bf0f445687b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Optimized/greek_wall_divider_1_corner.fbx using Guid(27d0d7ea80fd844a0962bf0f445687b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80ef9f8b912d9bfef818258a9b79b57') in 0.022692 seconds
+  Import took 0.025903 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

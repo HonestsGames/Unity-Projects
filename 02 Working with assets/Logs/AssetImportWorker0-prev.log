@@ -1,0 +1,904 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'ru' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\edit\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Program Files/Unity Hub/edit/Second exercise
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51002
+Successfully changed project path to: D:/Program Files/Unity Hub/edit/Second exercise
+D:/Program Files/Unity Hub/edit/Second exercise
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/edit/Second exercise/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/Unity Hub/edit/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001652 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.358 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.694900 ms (FindLiveObjects: 0.123200 ms CreateObjectMapping: 0.034600 ms MarkObjects: 1.423900 ms  DeleteObjects: 0.112300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Materials/White Marble.mat
+  artifactKey: Guid(6c539fc415d794f4a870298632453bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/White Marble.mat using Guid(6c539fc415d794f4a870298632453bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe91a58c6fdc11cfdbb1ea86740ff7f') in 0.358383 seconds
+  Import took 0.380378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.460650 seconds.
+  path: Assets/My Prefabs/Fence Full Section.prefab
+  artifactKey: Guid(fb9e84f8832f3694c965ad9810351dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Fence Full Section.prefab using Guid(fb9e84f8832f3694c965ad9810351dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf52e853ed33608f0e7eddeb611c8ec') in 0.038660 seconds
+  Import took 0.044603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.670202 seconds.
+  path: Assets/My Prefabs/Fence Pillar.prefab
+  artifactKey: Guid(a82e4c9c82652734789a129e7410ef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Fence Pillar.prefab using Guid(a82e4c9c82652734789a129e7410ef46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a53b7069dd9f1f084bd8179807676f0') in 0.030315 seconds
+  Import took 0.057973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.314635 seconds.
+  path: Assets/My Prefabs/Fence Section 1.prefab
+  artifactKey: Guid(27856f0cec332314d926806d01941bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Fence Section 1.prefab using Guid(27856f0cec332314d926806d01941bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4191c28ffdde56532d678ad0507e9425') in 0.028008 seconds
+  Import took 0.063468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.097609 seconds.
+  path: Assets/My Prefabs/Fence Section 2.prefab
+  artifactKey: Guid(512c694dafee6154b97fe7cf0c0106ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Fence Section 2.prefab using Guid(512c694dafee6154b97fe7cf0c0106ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b7c33b1ddcb3a77986069bec464258') in 0.024795 seconds
+  Import took 0.049914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 401.295649 seconds.
+  path: Assets/My Prefabs/Roof.prefab
+  artifactKey: Guid(969a2bfcfda06954caedfc2bfd89b29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Roof.prefab using Guid(969a2bfcfda06954caedfc2bfd89b29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8516c5cb809be836ab2c4b7393504076') in 0.050002 seconds
+  Import took 0.054217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001812 seconds.
+  path: Assets/My Prefabs/Roof.prefab
+  artifactKey: Guid(969a2bfcfda06954caedfc2bfd89b29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Roof.prefab using Guid(969a2bfcfda06954caedfc2bfd89b29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8516c5cb809be836ab2c4b7393504076') in 0.017683 seconds
+  Import took 0.022635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.671689 seconds.
+  path: Assets/My Prefabs/Foundation.prefab
+  artifactKey: Guid(65c55dcb920fd8441beeb9fd6c64f241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Foundation.prefab using Guid(65c55dcb920fd8441beeb9fd6c64f241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff2b6b93bc35274d1eead77a16a281c') in 0.025535 seconds
+  Import took 0.028207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.755535 seconds.
+  path: Assets/GreekPack1Lite
+  artifactKey: Guid(db805d2e8b302c544946582e00c8c76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite using Guid(db805d2e8b302c544946582e00c8c76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7114e44068f32b689c4ccb21ae2962a2') in 0.018673 seconds
+  Import took 0.024663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.220522 seconds.
+  path: Assets/GreekPack1Lite/Models
+  artifactKey: Guid(6084b4ae4ea1c44c4ac376d673d8f0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models using Guid(6084b4ae4ea1c44c4ac376d673d8f0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8c21de3c520290c5fc734555f6946b') in 0.010845 seconds
+  Import took 0.012911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045338 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_column_1.fbx
+  artifactKey: Guid(2a454462cc1bc47eab5642f1bcf4ba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_column_1.fbx using Guid(2a454462cc1bc47eab5642f1bcf4ba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a23381fc65a5dc4b5726b2640a208e') in 0.554961 seconds
+  Import took 0.558154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_stairs_stone_corner.fbx
+  artifactKey: Guid(27d661bd65a7a4c7b8b90324c3430a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_stairs_stone_corner.fbx using Guid(27d661bd65a7a4c7b8b90324c3430a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6646038e4f2baa51a01c14d784d6ba84') in 0.032786 seconds
+  Import took 0.035336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_roof_1.fbx
+  artifactKey: Guid(1d75a547b4e724375939511ed282113c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_roof_1.fbx using Guid(1d75a547b4e724375939511ed282113c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c509031540088d7a482619c2fa3794b') in 0.087700 seconds
+  Import took 0.090565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_tree_2.fbx
+  artifactKey: Guid(fe654bfd67235493e84db277df9c5c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_tree_2.fbx using Guid(fe654bfd67235493e84db277df9c5c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01df38e3517d8eb99a3e3562713119eb') in 0.030805 seconds
+  Import took 0.034943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_column_1.fbx
+  artifactKey: Guid(819e9c05580c44490b5bc1ebff5d3f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_column_1.fbx using Guid(819e9c05580c44490b5bc1ebff5d3f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914146fb1212eb0f441000b92adf0f7d') in 0.038350 seconds
+  Import took 0.041571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_floor_stone_1.fbx
+  artifactKey: Guid(69eb944f6a0da40f7b2dedf645a16d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_floor_stone_1.fbx using Guid(69eb944f6a0da40f7b2dedf645a16d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5932effd9290085792532e2019adc9') in 0.032199 seconds
+  Import took 0.034842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_2_window.fbx
+  artifactKey: Guid(bdae47c1ddf3049358f11421fa3be74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_2_window.fbx using Guid(bdae47c1ddf3049358f11421fa3be74b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cba0a96a331d5ec86228d3bd75ed0a7') in 0.033484 seconds
+  Import took 0.037036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_roof_support_1_square.fbx
+  artifactKey: Guid(064b6ba9d50ee47918dbd37de665fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_roof_support_1_square.fbx using Guid(064b6ba9d50ee47918dbd37de665fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1855ed69fdebdc923e1180d3fc35b6e6') in 0.032758 seconds
+  Import took 0.036823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_stairs_stone.fbx
+  artifactKey: Guid(083921bd162c04e538d96746617658f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_stairs_stone.fbx using Guid(083921bd162c04e538d96746617658f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7df14d8c71dd94ad5c7310f0f512df') in 0.028256 seconds
+  Import took 0.030982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_roof_support_1.fbx
+  artifactKey: Guid(69a7d92786c3f4e0dbee6da6dc1f947e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_roof_support_1.fbx using Guid(69a7d92786c3f4e0dbee6da6dc1f947e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada1670db4741a362538f600f3909fab') in 0.027946 seconds
+  Import took 0.032242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_column_2.fbx
+  artifactKey: Guid(7bb1029da8cb8486a961bb80138c7219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_column_2.fbx using Guid(7bb1029da8cb8486a961bb80138c7219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5118e151f2f5b89c54656e27437c882') in 0.031942 seconds
+  Import took 0.034708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_2.fbx
+  artifactKey: Guid(f1367657d847b445c9c29ab1d32aaf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_2.fbx using Guid(f1367657d847b445c9c29ab1d32aaf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9670e8d4115364ad9b6d2e8170eb895') in 0.049826 seconds
+  Import took 0.052790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_divider_1_corner.fbx
+  artifactKey: Guid(1ce29e0fa80ac4312a9837582ffebb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_divider_1_corner.fbx using Guid(1ce29e0fa80ac4312a9837582ffebb90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d522b64c3d9acc66083544b7d60faf4') in 0.038388 seconds
+  Import took 0.041387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_divider_1.fbx
+  artifactKey: Guid(e304c4f9872bd4b259b496c97b54e00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_divider_1.fbx using Guid(e304c4f9872bd4b259b496c97b54e00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12bc243253ef3c50664333b278e157bd') in 0.029002 seconds
+  Import took 0.038172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_roof_1_square.fbx
+  artifactKey: Guid(1e02a01f810e841ac81258ac38b3ea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_roof_1_square.fbx using Guid(1e02a01f810e841ac81258ac38b3ea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872acea9d6b7ff7de57d77d33fcd7052') in 0.029884 seconds
+  Import took 0.032335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_divider_2_corner.fbx
+  artifactKey: Guid(02997355c76e145a0892ff4a314cbb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_divider_2_corner.fbx using Guid(02997355c76e145a0892ff4a314cbb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137dc56f69b9357427a0ea9802eb4c92') in 0.031479 seconds
+  Import took 0.034650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_divider_2.fbx
+  artifactKey: Guid(2d2e1fd5462c74fc88283701d773cbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_divider_2.fbx using Guid(2d2e1fd5462c74fc88283701d773cbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df47c9b7d09cf7762299381d778d97a7') in 0.028513 seconds
+  Import took 0.030546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_1_short.fbx
+  artifactKey: Guid(77537921c0b204def9132f23c1cea5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_1_short.fbx using Guid(77537921c0b204def9132f23c1cea5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fb3d937a739469cda84b0d3b0a3b96') in 0.032221 seconds
+  Import took 0.035484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_2_corner.fbx
+  artifactKey: Guid(c7f57c2010cac4421b7c883e95751d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_2_corner.fbx using Guid(c7f57c2010cac4421b7c883e95751d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc9db5bac987ba769d12ff3aaf1402e') in 0.026086 seconds
+  Import took 0.029721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_1_short.fbx
+  artifactKey: Guid(77537921c0b204def9132f23c1cea5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_1_short.fbx using Guid(77537921c0b204def9132f23c1cea5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fb3d937a739469cda84b0d3b0a3b96') in 0.014736 seconds
+  Import took 0.017086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/GreekPack1Lite/Models/greek_wall_2_door.fbx
+  artifactKey: Guid(24649b3c37e4a491abf8ef731ffbd5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/greek_wall_2_door.fbx using Guid(24649b3c37e4a491abf8ef731ffbd5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11dd97030cc0b4ac0aed052696a076ae') in 0.026940 seconds
+  Import took 0.030759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.848383 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Blue.mat
+  artifactKey: Guid(14b7c5c31902442cf8da3306a1031635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Blue.mat using Guid(14b7c5c31902442cf8da3306a1031635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b6d076eb0d6b0d150ee4a5bc5394e3') in 0.037094 seconds
+  Import took 0.040449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Combined.mat
+  artifactKey: Guid(8b50f67be3a834a159d88ecc0944f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Combined.mat using Guid(8b50f67be3a834a159d88ecc0944f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02b27ea395159a54a814ecac83d95b9') in 0.029108 seconds
+  Import took 0.032376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Blue.mat
+  artifactKey: Guid(14b7c5c31902442cf8da3306a1031635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Blue.mat using Guid(14b7c5c31902442cf8da3306a1031635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b6d076eb0d6b0d150ee4a5bc5394e3') in 0.021472 seconds
+  Import took 0.023776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Roof_2.mat
+  artifactKey: Guid(a2540eb5d2d934977881a49c82bcb3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Roof_2.mat using Guid(a2540eb5d2d934977881a49c82bcb3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56935e046ba4d99f4568a6b0125a270c') in 0.025404 seconds
+  Import took 0.028211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_1.mat
+  artifactKey: Guid(7ed566b1767084d5cbcd1b3b150e3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_1.mat using Guid(7ed566b1767084d5cbcd1b3b150e3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1161afa22ee0f405c5032a47d2471fbd') in 0.024444 seconds
+  Import took 0.026976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Roof_1.mat
+  artifactKey: Guid(375fd9c2084c448c093ec85db14e15dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Roof_1.mat using Guid(375fd9c2084c448c093ec85db14e15dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '780ac3e63923516603bd460df77ad367') in 0.023797 seconds
+  Import took 0.026301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_4.mat
+  artifactKey: Guid(35ceeb845bcaf4d399ebff0070a2de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_4.mat using Guid(35ceeb845bcaf4d399ebff0070a2de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e3938eee57fc781dd49e9b69eac418') in 0.024904 seconds
+  Import took 0.028825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Dirt_1.mat
+  artifactKey: Guid(56b629314517e40929c83b1b37d23e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Dirt_1.mat using Guid(56b629314517e40929c83b1b37d23e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b2928c7d250aacf408ace2bfe5d8d2') in 0.022137 seconds
+  Import took 0.025441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Silver_1.mat
+  artifactKey: Guid(2c47c88d7fcbf4ce3aa8da9f42f86898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Silver_1.mat using Guid(2c47c88d7fcbf4ce3aa8da9f42f86898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7d576e9d563c67af8f3db9cbd6911f') in 0.028565 seconds
+  Import took 0.032337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Bush_1.mat
+  artifactKey: Guid(47beed327039b4bc89c7bfab618add20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Bush_1.mat using Guid(47beed327039b4bc89c7bfab618add20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351d6fd16ab8dfbfdbea40a65dff887f') in 0.026237 seconds
+  Import took 0.029247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Cloth_White.mat
+  artifactKey: Guid(6f436851cda3044949b9866dafe155c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Cloth_White.mat using Guid(6f436851cda3044949b9866dafe155c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86b9cdaf40193fd59e69bcae8a9ecbc') in 0.027874 seconds
+  Import took 0.030572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_2.mat
+  artifactKey: Guid(7c41cd8c830924aa299e46e6eef716bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_2.mat using Guid(7c41cd8c830924aa299e46e6eef716bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6486308f319e30426e18ee31f31b2d7c') in 0.025010 seconds
+  Import took 0.027464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Bush_2.mat
+  artifactKey: Guid(4e3d41c451bc242488504495ee6658ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Bush_2.mat using Guid(4e3d41c451bc242488504495ee6658ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3721233a9a41ed782d4439b38ffe4e52') in 0.023683 seconds
+  Import took 0.027299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Parchment.mat
+  artifactKey: Guid(dfa57d59a97024ec6964c7d3d0afbaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Parchment.mat using Guid(dfa57d59a97024ec6964c7d3d0afbaea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98545ba15b388520e2f67ecd5ee2d8a4') in 0.023046 seconds
+  Import took 0.026136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Flower_2.mat
+  artifactKey: Guid(87878a96d53344af1875eec2206275da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Flower_2.mat using Guid(87878a96d53344af1875eec2206275da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd430dd66995ed07d6065ee3327a77d31') in 0.022622 seconds
+  Import took 0.024882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Flower_1.mat
+  artifactKey: Guid(caa72d5aff9b84502ad37484407ceca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Flower_1.mat using Guid(caa72d5aff9b84502ad37484407ceca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e859ecd98186772b207584bb863e45') in 0.022489 seconds
+  Import took 0.024916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_5.mat
+  artifactKey: Guid(257dfd3a2570d46ef994063289de7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_5.mat using Guid(257dfd3a2570d46ef994063289de7684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d8654ce000b36025a2e435bcddda99') in 0.023314 seconds
+  Import took 0.025973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Bark_1.mat
+  artifactKey: Guid(bf87c698a6d9f4a00a9c23a1a302c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Bark_1.mat using Guid(bf87c698a6d9f4a00a9c23a1a302c39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8285139c41857a078d014867d3b9b692') in 0.021650 seconds
+  Import took 0.023900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Bronze_1.mat
+  artifactKey: Guid(cb01d9936a28e42caab84a5e9e68ac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Bronze_1.mat using Guid(cb01d9936a28e42caab84a5e9e68ac4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b12da5c665c062ec00570d2f0ce1b0') in 0.025407 seconds
+  Import took 0.028130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Grass_1.mat
+  artifactKey: Guid(e33a6ab228fd84f23b3684a158de11b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Grass_1.mat using Guid(e33a6ab228fd84f23b3684a158de11b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529714e2a674e3804a60e291a7a9534f') in 0.025986 seconds
+  Import took 0.028860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Orange.mat
+  artifactKey: Guid(53a9aa258f56c43cb9a8c17e13ed85b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Accent_Orange.mat using Guid(53a9aa258f56c43cb9a8c17e13ed85b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228cc280e679f1312e45608c32b89fde') in 0.058071 seconds
+  Import took 0.060250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_3.mat
+  artifactKey: Guid(dd8a00cf6e7fc44d2b98129521fec2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_3.mat using Guid(dd8a00cf6e7fc44d2b98129521fec2f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b18ed2102bc9963c2bc0c4c0c5dccd') in 0.026606 seconds
+  Import took 0.048881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Cloth_Blue.mat
+  artifactKey: Guid(a6f26a496099548c29adb9c535437a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Cloth_Blue.mat using Guid(a6f26a496099548c29adb9c535437a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046941371816786265843465210db0fb') in 0.023949 seconds
+  Import took 0.026128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Flower_3.mat
+  artifactKey: Guid(523124601af35487bb57d52f9fe68f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Flower_3.mat using Guid(523124601af35487bb57d52f9fe68f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a72d28ac8ddf8b018dc1b7e233b9514') in 0.024261 seconds
+  Import took 0.028742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Roof_3.mat
+  artifactKey: Guid(ca59fee446bd942daac49a9162b671fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Roof_3.mat using Guid(ca59fee446bd942daac49a9162b671fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41941d25524a72fc91b5a75b46cf7da') in 0.026907 seconds
+  Import took 0.029732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000760 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_6.mat
+  artifactKey: Guid(1132727fdae054c0fa6d57ba46f59636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_6.mat using Guid(1132727fdae054c0fa6d57ba46f59636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0207011e6fea56695982fc276690b35') in 0.074678 seconds
+  Import took 0.078031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.813475 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Stone_7.mat
+  artifactKey: Guid(601a0eae310ab4cd99ec3bdae1fbd0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Stone_7.mat using Guid(601a0eae310ab4cd99ec3bdae1fbd0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a25954e235eddb6977464958ac79af') in 0.040062 seconds
+  Import took 0.044631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Vase_1.mat
+  artifactKey: Guid(ad416ec4307d74bfc94d2d8be55f0cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Vase_1.mat using Guid(ad416ec4307d74bfc94d2d8be55f0cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402ea9a32d781c5c8705594342a47d3b') in 0.027876 seconds
+  Import took 0.031119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Vine_1.mat
+  artifactKey: Guid(6afd25be3eebe47f0bfbc21a6637aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Vine_1.mat using Guid(6afd25be3eebe47f0bfbc21a6637aaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b40664ec10b28264e31bce6ab3c051') in 0.024100 seconds
+  Import took 0.026786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Water.mat
+  artifactKey: Guid(f0e758c4a7b8b41a782a0384069954b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Water.mat using Guid(f0e758c4a7b8b41a782a0384069954b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf13e8356b07076d1d962d4a37e122e6') in 0.385382 seconds
+  Import took 0.388643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Tree_1.mat
+  artifactKey: Guid(847f9c8503e5246caa8d64722a7f945d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Tree_1.mat using Guid(847f9c8503e5246caa8d64722a7f945d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f81f985e77cbc3910e3fe6d36c8b358') in 0.021558 seconds
+  Import took 0.023814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Wood_1.mat
+  artifactKey: Guid(ac434d30fa0fd41a6a0a4d1ce678be54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Wood_1.mat using Guid(ac434d30fa0fd41a6a0a4d1ce678be54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e84f869a3087711d6198b7652e1fdfa') in 0.025444 seconds
+  Import took 0.028873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials/Greek_Vase_2.mat
+  artifactKey: Guid(9bf520b8d7962492ab625159d7ccec2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials/Greek_Vase_2.mat using Guid(9bf520b8d7962492ab625159d7ccec2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6968285284bea45b1516054e37c0fb6b') in 0.026734 seconds
+  Import took 0.029646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.971263 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials
+  artifactKey: Guid(761415913e3724173bef2df9fb5aa881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials using Guid(761415913e3724173bef2df9fb5aa881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe113e04c2afbdc40b4565312005cba2') in 0.014326 seconds
+  Import took 0.017778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001877 seconds.
+  path: Assets/GreekPack1Lite/Models/Materials
+  artifactKey: Guid(761415913e3724173bef2df9fb5aa881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Models/Materials using Guid(761415913e3724173bef2df9fb5aa881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe113e04c2afbdc40b4565312005cba2') in 0.006230 seconds
+  Import took 0.009091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2494.952074 seconds.
+  path: Assets/GreekPack1Lite/Prefabs
+  artifactKey: Guid(754e8e6e26a6f43f5834fbccf29a1714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs using Guid(754e8e6e26a6f43f5834fbccf29a1714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de50ed14cbcd8086cd29a10aaac2494') in 0.011097 seconds
+  Import took 0.013881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.624376 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Buildings
+  artifactKey: Guid(f36fa3705d7484f1d9f59fc8570a908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Buildings using Guid(f36fa3705d7484f1d9f59fc8570a908f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb56b60b13b6007dbcf8ac99c400bd40') in 0.008485 seconds
+  Import took 0.011234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062020 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Buildings/Temple.prefab
+  artifactKey: Guid(9293442b452d64a09b2bbd4bd563a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Buildings/Temple.prefab using Guid(9293442b452d64a09b2bbd4bd563a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158d9946ab080d1be842ea1503224764') in 0.040962 seconds
+  Import took 0.045137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.623001 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects
+  artifactKey: Guid(b0a85ddd620f947b5a0c1c158a6e9663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects using Guid(b0a85ddd620f947b5a0c1c158a6e9663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd806d60f91ece825c7d42d77f7d06b') in 0.012646 seconds
+  Import took 0.015040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060785 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_column_1.prefab
+  artifactKey: Guid(b67c34942f06641839dbb616d6b0423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_column_1.prefab using Guid(b67c34942f06641839dbb616d6b0423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e686c2b595b7861d96581b902d3d29') in 0.016232 seconds
+  Import took 0.018831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_door.prefab
+  artifactKey: Guid(db1a4c8ae12944144b7a56b1adb279c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_door.prefab using Guid(db1a4c8ae12944144b7a56b1adb279c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662e2c8b09e9c3ea2e97a8e5c91a3b40') in 0.017236 seconds
+  Import took 0.019933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1_square.prefab
+  artifactKey: Guid(23d2c27c021bf458dbea5e5439e337b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1_square.prefab using Guid(23d2c27c021bf458dbea5e5439e337b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d9abc665e0392f36af5035291493c8') in 0.018762 seconds
+  Import took 0.022731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1.prefab
+  artifactKey: Guid(7a6fc26fee8904bf49e446ffaf880f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1.prefab using Guid(7a6fc26fee8904bf49e446ffaf880f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff78166c105cbaff490847938549e40') in 0.020116 seconds
+  Import took 0.022261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1_square.prefab
+  artifactKey: Guid(cae15631505aa4b9e90ba7faf74a5ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_1_square.prefab using Guid(cae15631505aa4b9e90ba7faf74a5ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a284343392ed3e13b47fb1b4b73738c5') in 0.018263 seconds
+  Import took 0.021712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_column_1.prefab
+  artifactKey: Guid(dd38b37b510544adbb92ccac89d70202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_column_1.prefab using Guid(dd38b37b510544adbb92ccac89d70202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fa787ac4c56f6700bd500699005115') in 0.018768 seconds
+  Import took 0.021684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_floor_stone_1.prefab
+  artifactKey: Guid(34d863027af504a739927df283d50f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_floor_stone_1.prefab using Guid(34d863027af504a739927df283d50f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583aa4b5aa93f548e86e609549f0a862') in 0.018798 seconds
+  Import took 0.020947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_tree_2.prefab
+  artifactKey: Guid(6a795ebc8fb3847c49aadadb856a09de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_tree_2.prefab using Guid(6a795ebc8fb3847c49aadadb856a09de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70265551db3c3553b55ef48619c40217') in 0.018420 seconds
+  Import took 0.021031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1.prefab
+  artifactKey: Guid(cda363d903f694736bfa8197fb777822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1.prefab using Guid(cda363d903f694736bfa8197fb777822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3918164a609021f573c1811b38ae25c2') in 0.018685 seconds
+  Import took 0.022563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone.prefab
+  artifactKey: Guid(e4707a0856ce84eee87e7e38fb543c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone.prefab using Guid(e4707a0856ce84eee87e7e38fb543c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a266f3de2aa969e57fcfd2f6b66ea2a6') in 0.019158 seconds
+  Import took 0.022558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1_corner.prefab
+  artifactKey: Guid(6014b3deef61d4ec694ebc6da6562e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_1_corner.prefab using Guid(6014b3deef61d4ec694ebc6da6562e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f8101e8569c15e7818439a8f4abf15') in 0.017645 seconds
+  Import took 0.020660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1.prefab
+  artifactKey: Guid(86da1ad6886b74c66bd850a4c1de0b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_roof_support_1.prefab using Guid(86da1ad6886b74c66bd850a4c1de0b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e26a70693d38dab3cfbede04f5c9be7') in 0.018447 seconds
+  Import took 0.021872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_column_2.prefab
+  artifactKey: Guid(a8ed52bf690a54ee2973e3ca03b2b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_column_2.prefab using Guid(a8ed52bf690a54ee2973e3ca03b2b3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff3cc29464013e70439bc79fc212dab') in 0.015702 seconds
+  Import took 0.017989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_corner.prefab
+  artifactKey: Guid(2a59eae8324ad4291b23e61f44e4ca11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_corner.prefab using Guid(2a59eae8324ad4291b23e61f44e4ca11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6824e2731ea108444fbfeb8546ceb7') in 0.022317 seconds
+  Import took 0.025074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2_corner.prefab
+  artifactKey: Guid(52cf6fe79e5e8482286a21960567bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2_corner.prefab using Guid(52cf6fe79e5e8482286a21960567bc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7ba03315bb0fff014eced3e8047c38') in 0.017011 seconds
+  Import took 0.019381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_1_short.prefab
+  artifactKey: Guid(5be5596e14f484ae49cec1307a7e7d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_1_short.prefab using Guid(5be5596e14f484ae49cec1307a7e7d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fa02d6a323de104ee1e04709608a31') in 0.016962 seconds
+  Import took 0.020551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone_corner.prefab
+  artifactKey: Guid(59df19ce6f8e647159d9bee24a6a0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_stairs_stone_corner.prefab using Guid(59df19ce6f8e647159d9bee24a6a0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678a1b9d9a6a0f46656bd11232aa1767') in 0.016726 seconds
+  Import took 0.019274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2.prefab
+  artifactKey: Guid(040a9220107b540368b0b3f7e626f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_divider_2.prefab using Guid(040a9220107b540368b0b3f7e626f1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca649e76077a5bae7b217fa257bd72d') in 0.016252 seconds
+  Import took 0.019296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2.prefab
+  artifactKey: Guid(6b66ad43b05274620bc8695d0e1cebb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2.prefab using Guid(6b66ad43b05274620bc8695d0e1cebb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecee90f80c22dfaad8c7f85ca7df7e7') in 0.015843 seconds
+  Import took 0.018961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_window.prefab
+  artifactKey: Guid(0f4a2c0456dca4089bef336bf9fe7ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GreekPack1Lite/Prefabs/Objects/greek_wall_2_window.prefab using Guid(0f4a2c0456dca4089bef336bf9fe7ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b897d5714116465eb8154c022790464d') in 0.023287 seconds
+  Import took 0.025877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.829330 seconds.
+  path: Assets/Greek Statue
+  artifactKey: Guid(f04e46cb605297d47aed2d8da4704d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue using Guid(f04e46cb605297d47aed2d8da4704d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae12bd8ddc97754a4f206af7bce6f669') in 0.019558 seconds
+  Import took 0.023895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051588 seconds.
+  path: Assets/Greek Statue/GreekStatue.prefab
+  artifactKey: Guid(c58829182f121f24aa5317a22823ca57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/GreekStatue.prefab using Guid(c58829182f121f24aa5317a22823ca57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0016700953e369f6165e20206f04aac5') in 0.395634 seconds
+  Import took 0.398570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.700901 seconds.
+  path: Assets/Greek Statue/Materials
+  artifactKey: Guid(39aa0c193340174439a4276e90af01b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials using Guid(39aa0c193340174439a4276e90af01b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51281e6fc858a516ac29f7157d2e216f') in 0.003461 seconds
+  Import took 0.006709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048695 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD0.mat
+  artifactKey: Guid(ab0dd7891947e1549bee08bafe1661cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD0.mat using Guid(ab0dd7891947e1549bee08bafe1661cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad097a35a58644eb59e5b0f1c6ad28b') in 0.033901 seconds
+  Import took 0.038747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD1.png
+  artifactKey: Guid(9e0feefc28cdbc543aba2d99a1879201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD1.png using Guid(9e0feefc28cdbc543aba2d99a1879201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc98cec26aaaa9726fe554da70131ca2') in 0.415639 seconds
+  Import took 0.417977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD1.mat
+  artifactKey: Guid(14a09e292b2649b48b358764d42138a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD1.mat using Guid(14a09e292b2649b48b358764d42138a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd60571d4a9796bafb905dd889ec06f') in 0.036392 seconds
+  Import took 0.039576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD1_Normal.png
+  artifactKey: Guid(cb048c2a7a326a0469f0306393b22578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD1_Normal.png using Guid(cb048c2a7a326a0469f0306393b22578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76392053614b6050657f91b4c51c8d0f') in 0.045666 seconds
+  Import took 0.049159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD0_Normal.png
+  artifactKey: Guid(2242b62ceeed3d34a96923ad5009b77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD0_Normal.png using Guid(2242b62ceeed3d34a96923ad5009b77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a886908f82e8358c3f04ecd48e24d8') in 0.034341 seconds
+  Import took 0.063926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Greek Statue/Materials/GreekStatue_LOD0.png
+  artifactKey: Guid(f02f7e8caa994dd49a9c187a7f18059b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Greek Statue/Materials/GreekStatue_LOD0.png using Guid(f02f7e8caa994dd49a9c187a7f18059b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c36179d8b341258e8576ea9739e911') in 0.025742 seconds
+  Import took 0.029093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.151653 seconds.
+  path: Assets/RomanCityPack1Lite
+  artifactKey: Guid(327c6211bc18db84b8bbeb8f75bbf0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite using Guid(327c6211bc18db84b8bbeb8f75bbf0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a68cc7f9cdc65c8136f1739f71eebc') in 0.009875 seconds
+  Import took 0.013973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.602696 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs
+  artifactKey: Guid(57150ff75e022435d97936f14db23d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs using Guid(57150ff75e022435d97936f14db23d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ef65783b77dc3933299bc837b568d2') in 0.003255 seconds
+  Import took 0.006248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.363622 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Buildings
+  artifactKey: Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Buildings using Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8acd1cd261ab6ca9fa3d16f575f08409') in 0.003034 seconds
+  Import took 0.007534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Buildings
+  artifactKey: Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Buildings using Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8acd1cd261ab6ca9fa3d16f575f08409') in 0.002835 seconds
+  Import took 0.006821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075048 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Buildings/House.prefab
+  artifactKey: Guid(acc641cb5641340d28bed1190e6b55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Buildings/House.prefab using Guid(acc641cb5641340d28bed1190e6b55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e60b03150d52dcaae65be636958b17') in 0.055940 seconds
+  Import took 0.060780 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
